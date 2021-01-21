@@ -1,0 +1,92 @@
+body {
+    background: #000080;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    border: 5px solid blue;
+    padding: 10px;
+    background-color: black;
+    font-family: 'Indie Flower', cursive;
+}
+
+.w {
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+}
+
+.ten {
+    color: red;
+}
+
+.am {
+    color: red;
+    font-size: 20px;
+}
+
+hr.solid {
+    border-top: 20px blue solid;
+}
+
+
+
+.img1 {
+    height: 200px;
+    width: 150px;
+}
+
+.img2 {
+    height: 200px;
+    width: 150px;
+}
+
+.img3 {
+    height: 200px;
+    width: 150px;
+}
+
+.imgs {
+    display: flex;
+    justify-content: space-between;
+    border: 10px solid red;
+    padding: 10px;
+    margin: 10px;
+    background: black;
+}
+
+.h {
+    color: red;
+    font-size: 45px;
+    font-family: 'Fredoka One', cursive;
+}
+
+.accs {
+    border: 10px red solid;
+    background: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.img4 {
+    height: 400px;
+}
+
+.img5 {
+    height: 400px;
+}
+
+.img6 {
+    height: 400px;
+}
+
+.quo {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 10px solid red;
+    padding: 10px;
+    margin: 10px;
+    background: black;
+}
